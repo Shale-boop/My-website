@@ -5,7 +5,7 @@
 	</head>
 	<body background="../images/pic.jpg">
 		<header>
-			Welcome to QuadAys Fashion!!
+			<Welcome to QuadAys Fashion!!>
 		</header>
 		<div class="nav">
 			<ul>
