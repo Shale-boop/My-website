@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 	<head>
 		<title>QuadAys Fashion</title>
@@ -18,6 +17,6 @@
 				
 			</ul>
 			</div>
-		<marquee><div class="footer">A Place of Fashion sdhdth dythd chntfcghnddxgh yhndfc hdx h tdcg hyftych jfc hjfcfg bnxdg sefdgbdrt </div></marquee>
+		<marquee><div class="footer">A Place of Fashion. Come and pick yours</div></marquee>
 	</body>
 </html> 
